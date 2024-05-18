@@ -67,16 +67,11 @@ Clone the repository:
 !["Training Loss, Validation Loss vs Epochs for VGG16 model"](Loss vs Epochs.png)
 
 
-[Provide any notable results or performance metrics achieved by the model.]
-
 ## References
-[Include any relevant papers, articles, or resources that inspired or guided your work.]
 
-## Contributing
-[Provide guidelines for contributing to the project, if applicable.]
 
 ## Authors
-- [Your Name](https://github.com/yourusername)
+- [Renusree](https://github.com/20WH1A05B0)
+- [Atoshi Das](https://github.com/Atoshi-Das)
+- [Sindhuja]()
 
-## Acknowledgements
-[Thank any individuals, organizations, or projects that contributed to your work.]
