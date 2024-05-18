@@ -73,5 +73,5 @@ Clone the repository:
 ## Authors
 - [Renusree](https://github.com/20WH1A05B0)
 - [Atoshi Das](https://github.com/Atoshi-Das)
-- [Sindhuja]()
+- [Sindhuja](https://github.com/Sindhujaramidi)
 
