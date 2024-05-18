@@ -62,9 +62,9 @@ Clone the repository:
 | Recall | 88.13% | 89.71% | 88.47% |
 | F1-score | 88.26 | 90.47% | 87.50% |
 
-!["Training Accuracy, Validation Accuracy vs Epochs for VGG16 model"](Accuracy vs Epochs.png)
+![Training Accuracy, Validation Accuracy vs Epochs for VGG16 model](Accuracy vs Epochs.png)
 
-!["Training Loss, Validation Loss vs Epochs for VGG16 model"]("](Loss vs Epochs.png)
+![Training Loss, Validation Loss vs Epochs for VGG16 model](Loss vs Epochs.png)
 
 
 [Provide any notable results or performance metrics achieved by the model.]
