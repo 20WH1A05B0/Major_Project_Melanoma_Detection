@@ -9,8 +9,16 @@ This repository contains the code implementation for melanoma detection using Co
 - Provides scripts for training, evaluation, and prediction
 
 ## Dataset
-The dataset used for training and evaluation consists of [provide details about your dataset, such as size, source, and any preprocessing steps].
-
+Data Details
+Source: Kaggle
+Size: 10,604 images
+Availability: The dataset comprises images with dimensions of 300x300 pixels.
+Preprocessing:
+Resized from 300x300 pixels to 224x224 pixels.
+Aspect ratio maintained during resizing.
+Interpolation methods applied to preserve image quality.
+Dataset Balance
+The dataset is balanced with a ratio of 1.07, ensuring that there is no significant class imbalance that could bias the model's training.
 ## Requirements
 - Python 3
 - TensorFlow
