@@ -50,7 +50,7 @@ These software requirements are essential for developing, training, and evaluati
 ## Usage
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/melanoma-detection.git
+   git clone https://github.com/20WH1A05B0/Major_Project_Melanoma_Detection.git
    ```
 2. Install dependencies:
    ```
