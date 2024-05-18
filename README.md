@@ -21,11 +21,31 @@ This repository contains the code implementation for melanoma detection using Co
 ### Dataset Balance
 The dataset is balanced with a ratio of 1.07, ensuring that there is no significant class imbalance that could bias the model's training.
 
-## Requirements
-- Python 3
-- TensorFlow
-- Keras
-- [List any other dependencies or specific versions required]
+
+## Software Requirements
+
+### Programming Language
+- Python 3.10
+
+### Packages
+- NumPy
+- Pandas
+- Tensorflow
+- Sklearn
+- Matplotlib
+- Torch
+- Seaborn
+
+### Metrics
+- Accuracy
+- Precision
+- Recall
+- F1-score
+
+### Tool
+- Jupyter Notebook
+
+These software requirements are essential for developing, training, and evaluating machine learning models for melanoma detection using the provided dataset. Ensure that you have the specified versions of Python and the required packages installed in your development environment to run the code seamlessly.
 
 ## Usage
 1. Clone the repository:
