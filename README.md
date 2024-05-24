@@ -62,7 +62,7 @@ Clone the repository:
 | Recall | 88.13% | 89.71% | 88.47% |
 | F1-score | 88.26 | 90.47% | 87.50% |
 
-![](Accuracy vs Epochs.png)
+![](https://github.com/20WH1A05B0/Major_Project_Melanoma_Detection/blob/main/Accuracy%20vs%20Epochs.png)
 
 ![](Loss vs Epochs.png)
 
