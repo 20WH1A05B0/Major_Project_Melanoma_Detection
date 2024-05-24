@@ -64,7 +64,7 @@ Clone the repository:
 
 ![Validation and Training Accuracy vs Epochs](https://github.com/20WH1A05B0/Major_Project_Melanoma_Detection/blob/main/Accuracy%20vs%20Epochs.png)
 
-![Validation and Training Loss vs Epochs]([Loss vs Epochs.png](https://github.com/20WH1A05B0/Major_Project_Melanoma_Detection/blob/main/Loss%20vs%20Epochs.png))
+![Validation and Training Loss vs Epochs](https://github.com/20WH1A05B0/Major_Project_Melanoma_Detection/blob/main/Loss%20vs%20Epochs.png)
 
 
 ## References
